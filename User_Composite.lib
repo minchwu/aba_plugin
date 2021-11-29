@@ -1,0 +1,51 @@
+((I0
+I-1
+S'User_Composite'
+p0
+I0
+(dp1
+tp2
+(I1
+I0
+S'T300'
+p3
+I1
+(dp4
+S'Data Source'
+p5
+S'Imported from CAE'
+p6
+sS'Description'
+p7
+g6
+sS'CAE name'
+p8
+S'T300'
+p9
+sS'Time Stamp'
+p10
+F1631497633.493
+sS'visible'
+p11
+(lp12
+g5
+ag7
+aS'Units'
+p13
+aS'Vendor material name'
+p14
+asS'version'
+p15
+S'2021'
+p16
+sg14
+g3
+sg13
+g6
+sS'Data'
+p17
+S"{'name': 'T300', 'materialIdentifier': '', 'description': '', 'elastic': {'noTension': OFF, 'temperatureDependency': OFF, 'moduli': LONG_TERM, 'dependencies': 0, 'noCompression': OFF, 'table': ((125000.0, 9000.0, 9000.0, 0.32, 0.32, 0.46, 4600.0, 4600.0, 3082.0),), 'failStress': {'temperatureDependency': OFF, 'table': ((1760.0, 1050.0, 51.0, 130.0, 60.0, 0.0, 0.0),), 'dependencies': 0}, 'type': ENGINEERING_CONSTANTS}, 'density': {'temperatureDependency': OFF, 'table': ((1.6e-09,),), 'dependencies': 0, 'fieldName': '', 'distributionType': UNIFORM}}"
+p18
+stp19
+tp20
+.
