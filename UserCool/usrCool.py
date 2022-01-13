@@ -26,7 +26,7 @@ def UserCoolMain(usrModel, usrPart, usrDim, usrTyp):
                       dimensionality=MODIMCONST[usrDim],
                       type=MODTYPECON[usrTyp])
         locPart = usrModel.parts[usrPart]
-    locPart.DatumPointByCoordinate(coords=(0.0, 0.0, 0.0))
+    # locPart.DatumPointByCoordinate(coords=(0.0, 0.0, 0.0))
     locPart.DatumAxisByPrincipalAxis(principalAxis=XAXIS)
     locPart.DatumAxisByPrincipalAxis(principalAxis=YAXIS)
     locPart.DatumAxisByPrincipalAxis(principalAxis=ZAXIS)
